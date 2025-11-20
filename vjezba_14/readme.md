@@ -38,13 +38,13 @@ U vašem postojećem dokumentu pronađite `<main>` element i **pred kraj** (prij
                 <td>Utorak</td>
                 <td>18:00 – 20:00</td>
                 <td>Početna radionica</td>
-                <td>5. i 6. razred</td>
+                <td>1. godina</td>
             </tr>
             <tr>
                 <td>Četvrtak</td>
                 <td>18:00 – 20:00</td>
                 <td>Napredna radionica</td>
-                <td>7. i 8. razred</td>
+                <td>2. godina</td>
             </tr>
             <tr>
                 <td>Subota</td>
@@ -134,4 +134,5 @@ Selektor: .raspored th
     background-color: #fff7cc;
 }
 ```
+
 
