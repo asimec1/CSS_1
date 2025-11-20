@@ -91,7 +91,7 @@ margin-bottom: 10px;
 font-size: 28px;
 ```
 
-## 2.2 Podnaslovi u main dijelu
+### 2.2 Podnaslovi u main dijelu
 
 Za podnaslove (npr. selektor main h2):
 
@@ -106,7 +106,7 @@ font-size: 20px;
 ```
 
 
-## 2.3 Svi odlomci u main dijelu
+### 2.3 Svi odlomci u main dijelu
 
 Za tekst odlomaka (npr. selektor main p):
 ```css
@@ -116,7 +116,7 @@ margin-bottom: 10px;
 
 font-size: 16px;
 ```
-## 2.4 Uvodni odlomak
+### 2.4 Uvodni odlomak
 
 Za uvodni odlomak (selektor .uvod):
 ```css
@@ -126,7 +126,7 @@ font-weight: bold;
 
 margin-bottom: 15px;
 ```
-## 2.5 Odlomak s godinom osnivanja
+### 2.5 Odlomak s godinom osnivanja
 
 Za odlomak s informacijom o osnivanju (selektor #osnovan):
 ```css
@@ -138,7 +138,7 @@ padding: 8px;
 
 margin-bottom: 12px;
 ```
-## 2.6 Naglašene riječi u tekstu
+### 2.6 Naglašene riječi u tekstu
 
 Za naglašene riječi unutar odlomaka (selektor .vazno):
 ```css
@@ -146,7 +146,7 @@ color: green;
 
 font-weight: bold;
 ```
-## 2.7 Poveznica na službenu LEGO stranicu
+### 2.7 Poveznica na službenu LEGO stranicu
 
 Za poveznicu na LEGO stranicu (selektor .lego-link):
 ```css
@@ -166,7 +166,7 @@ color: blue;
 
 background-color: #ffffff;
 ```
-## 2.8 Slika LEGO seta u main dijelu
+### 2.8 Slika LEGO seta u main dijelu
 
 Za sliku u main dijelu (selektor .lego-slika):
 ```css
@@ -178,9 +178,9 @@ margin-top: 10px;
 
 margin-bottom: 10px;
 ```
-2.9 Popis popularnih LEGO tema
+##2.9 Popis popularnih LEGO tema
 
-## Za listu s temama (selektor .lista-tema):
+Za listu s temama (selektor .lista-tema):
 ```css
 margin-left: 20px;
 
@@ -188,7 +188,7 @@ margin-bottom: 10px;
 
 list-style-type: square;
 ```
-## 2.10 Napomena na dnu main dijela
+### 2.10 Napomena na dnu main dijela
 
 Za napomenu (selektor .napomena):
 
@@ -223,5 +223,6 @@ link na službenu LEGO stranicu
 sliku LEGO seta
 
 popis najpopularnijih LEGO tema
+
 
 napomenu na dnu sadržaja
