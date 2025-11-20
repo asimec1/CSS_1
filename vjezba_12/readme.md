@@ -55,7 +55,7 @@ U datoteku `index.html` upišite sljedeći kod:
 </html>
 ```
 
-2. CSS kostur koji trebate popuniti
+## 2. CSS kostur koji trebate popuniti
 
 U dio <style> (u <head>) zalijepite ovaj kostur i popunite ga deklaracijama:
 ```css
@@ -115,7 +115,7 @@ footer {
 }
 ```
 
-3. Deklaracije koje morate iskoristiti
+## 3. Deklaracije koje morate iskoristiti
 
 Sve potrebne deklaracije su napisane ispod.
 Kopirajte ih i zalijepite u odgovarajuće selektore iz CSS kostura.
@@ -168,7 +168,7 @@ color: #555555;
 margin-bottom: 10px;
 ```
 
-4. Uputa za rad
+## 4. Uputa za rad
 
 Otvorite datoteku index.html.
 
@@ -194,5 +194,6 @@ Spremite datoteku i otvorite je u pregledniku.
 
 
 Cilj je da dobijete jednostavnu, ali urednu stranicu s bannerom, navigacijom, glavnim sadržajem i footerom.
+
 
 
