@@ -121,7 +121,7 @@ Sve potrebne deklaracije su napisane ispod.
 Kopirajte ih i zalijepite u odgovarajuće selektore iz CSS kostura.
 
 Napomena: ne ponavljajte deklaracije bez potrebe.
-
+```css
 margin: 0;
 padding: 0;
 
@@ -166,7 +166,7 @@ text-align: center;
 font-size: 12px;
 color: #555555;
 margin-bottom: 10px;
-
+```
 
 4. Uputa za rad
 
@@ -194,4 +194,5 @@ Spremite datoteku i otvorite je u pregledniku.
 
 
 Cilj je da dobijete jednostavnu, ali urednu stranicu s bannerom, navigacijom, glavnim sadržajem i footerom.
+
 
