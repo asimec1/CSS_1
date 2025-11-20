@@ -57,7 +57,7 @@ U datoteku `index.html` upišite sljedeći kod:
 
 ## 2. CSS kostur koji trebate popuniti
 
-U dio <style> (u '<head>') zalijepite ovaj kostur i popunite ga deklaracijama:
+U dio <style> (u `<head>`) zalijepite ovaj kostur i popunite ga deklaracijama:
 ```css
 /* 1. Reset osnovnih margina i paddinga za sve elemente */
 * {
@@ -194,6 +194,7 @@ Spremite datoteku i otvorite je u pregledniku.
 
 
 Cilj je da dobijete jednostavnu, ali urednu stranicu s bannerom, navigacijom, glavnim sadržajem i footerom.
+
 
 
 
