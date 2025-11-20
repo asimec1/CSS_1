@@ -178,7 +178,7 @@ margin-top: 10px;
 
 margin-bottom: 10px;
 ```
-##2.9 Popis popularnih LEGO tema
+### 2.9 Popis popularnih LEGO tema
 
 Za listu s temama (selektor .lista-tema):
 ```css
@@ -226,3 +226,4 @@ popis najpopularnijih LEGO tema
 
 
 napomenu na dnu sadržaja
+
