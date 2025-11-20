@@ -53,7 +53,7 @@ U datoteku `index.html` upišite sljedeći kod:
     </footer>
 </body>
 </html>
-
+```
 
 2. CSS kostur koji trebate popuniti
 
@@ -191,5 +191,6 @@ Pokušajte logički rasporediti deklaracije:
 što ide u footer
 
 Spremite datoteku i otvorite je u pregledniku.
+
 
 Cilj je da dobijete jednostavnu, ali urednu stranicu s bannerom, navigacijom, glavnim sadržajem i footerom.
